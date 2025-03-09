@@ -23,8 +23,8 @@ while True:
         # new_todos = [item.strip('\n') for item in todos]
         # This is for removing the extra break lines using list comprehension
 
-        for index, item in enumerate(todos):  # For showing the number of each todo item
-            item = item.capitalize()  # Makes the todo lists capital
+        for index, item in enumerate(todos):  # For showing the number of eachtodo item
+            item = item.capitalize()  # Makes thetodo lists capital
             item = item.strip('\n')
             row = f"{index + 1}- {item}"  # For optimizing the output
             print(row)
@@ -37,7 +37,7 @@ while True:
             todos = functions.get_todos()
 
             new_todo = input("Please enter your new to-do: ")
-            todos[number] = new_todo + '\n'  # To assign new todo item to the assigned number of the list
+            todos[number] = new_todo + '\n'  # To assign newtodo item to the assigned number of the list
 
             functions.write_todos(todos)
         except ValueError:
