@@ -1,7 +1,10 @@
-clean the house
-Add a member
-clean the code
-default argumnets done
-make a coffee
-Fix the bug
+Brew Tea
 Master Python!
+Plant the bomb
+Clean the room
+Throw the garbage
+Play the game
+Add this todo to the list
+Newest todo
+My first todo
+Last todo 
