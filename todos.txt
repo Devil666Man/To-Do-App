@@ -3,3 +3,5 @@ Add a member
 clean the code
 default argumnets done
 make a coffee
+Fix the bug
+Master Python!
