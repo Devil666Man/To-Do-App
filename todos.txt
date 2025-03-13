@@ -4,7 +4,3 @@ Plant the bomb
 Clean the room
 Throw the garbage
 Play the game
-Add this todo to the list
-Newest todo
-My first todo
-Last todo 
